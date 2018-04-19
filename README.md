@@ -1,4 +1,4 @@
-# Recipes
+# Recipes is file containe lot of football info
 
 This repository contains recipes for some foods I like.
 
